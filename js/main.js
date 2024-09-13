@@ -1,4 +1,4 @@
-'use strict';
+
 function celsiusToFahrenheit(){
    const celsiusTemperature  =document.getElementById("temperature").value;
 
